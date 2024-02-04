@@ -7,7 +7,7 @@ import java.lang.annotation.RetentionPolicy;
 import java.lang.annotation.Target;
 
 /**
- * @author Benjamin Winterberg
+ * @author Srikanth Pula
  */
 public class Annotations1 {
 

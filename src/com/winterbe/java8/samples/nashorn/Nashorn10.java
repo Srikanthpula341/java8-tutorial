@@ -7,7 +7,7 @@ import javax.script.ScriptException;
 import java.util.concurrent.TimeUnit;
 
 /**
- * @author Benjamin Winterberg
+ * @author Srikanth Pula
  */
 public class Nashorn10 {
 

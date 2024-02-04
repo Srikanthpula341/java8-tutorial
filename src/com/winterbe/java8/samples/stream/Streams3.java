@@ -6,7 +6,7 @@ import java.util.UUID;
 import java.util.concurrent.TimeUnit;
 
 /**
- * @author Benjamin Winterberg
+ * @author Srikanth Pula
  */
 public class Streams3 {
 

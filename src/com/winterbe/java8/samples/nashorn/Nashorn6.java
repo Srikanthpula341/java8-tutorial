@@ -9,7 +9,7 @@ import javax.script.ScriptEngineManager;
 /**
  * Using Backbone Models from Nashorn.
  *
- * @author Benjamin Winterberg
+ * @author Srikanth Pula
  */
 public class Nashorn6 {
 

@@ -1,7 +1,7 @@
 package com.winterbe.java8.samples.nashorn;
 
 /**
- * @author Benjamin Winterberg
+ * @author Srikanth Pula
  */
 public class Product {
     private String name;

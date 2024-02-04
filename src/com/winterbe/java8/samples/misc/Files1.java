@@ -11,7 +11,7 @@ import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 /**
- * @author Benjamin Winterberg
+ * @author Srikanth Pula
  */
 public class Files1 {
 

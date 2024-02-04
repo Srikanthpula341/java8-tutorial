@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * @author Benjamin Winterberg
+ * @author Srikanth Pula
  */
 public class Maps1 {
 

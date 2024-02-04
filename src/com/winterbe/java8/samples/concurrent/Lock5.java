@@ -5,7 +5,7 @@ import java.util.concurrent.Executors;
 import java.util.concurrent.locks.StampedLock;
 
 /**
- * @author Benjamin Winterberg
+ * @author Srikanth Pula
  */
 public class Lock5 {
 

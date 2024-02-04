@@ -1,7 +1,7 @@
 package com.winterbe.java8.samples.lambda;
 
 /**
- * @author Benjamin Winterberg
+ * @author Srikanth Pula
  */
 public class Lambda2 {
 

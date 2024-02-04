@@ -6,7 +6,7 @@ import javax.script.ScriptEngineManager;
 /**
  * Working with java types from javascript.
  *
- * @author Benjamin Winterberg
+ * @author Srikanth Pula
  */
 public class Nashorn4 {
 

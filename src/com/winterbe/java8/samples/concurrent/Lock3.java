@@ -8,7 +8,7 @@ import java.util.concurrent.locks.ReadWriteLock;
 import java.util.concurrent.locks.ReentrantReadWriteLock;
 
 /**
- * @author Benjamin Winterberg
+ * @author Srikanth Pula
  */
 public class Lock3 {
 

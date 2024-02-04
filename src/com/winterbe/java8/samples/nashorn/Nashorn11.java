@@ -10,7 +10,7 @@ import javax.script.SimpleBindings;
 import javax.script.SimpleScriptContext;
 
 /**
- * @author Benjamin Winterberg
+ * @author Srikanth Pula
  */
 public class Nashorn11 {
 

@@ -5,7 +5,7 @@ import java.util.List;
 import java.util.stream.IntStream;
 
 /**
- * @author Benjamin Winterberg
+ * @author Srikanth Pula
  */
 public class Streams7 {
 

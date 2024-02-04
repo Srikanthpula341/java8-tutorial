@@ -7,7 +7,7 @@ import javax.script.ScriptEngineManager;
 /**
  * Bind java objects to custom javascript objects.
  *
- * @author Benjamin Winterberg
+ * @author Srikanth Pula
  */
 public class Nashorn5 {
 

@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.stream.IntStream;
 
 /**
- * @author Benjamin Winterberg
+ * @author Srikanth Pula
  */
 public class Streams13 {
 

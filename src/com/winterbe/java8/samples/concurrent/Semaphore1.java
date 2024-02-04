@@ -7,7 +7,7 @@ import java.util.concurrent.TimeUnit;
 import java.util.stream.IntStream;
 
 /**
- * @author Benjamin Winterberg
+ * @author Srikanth Pula
  */
 public class Semaphore1 {
 
